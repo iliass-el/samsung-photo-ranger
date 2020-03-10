@@ -30,7 +30,7 @@ python photos.py -p "D:\Images" -l -m
 
 # Flow chart
 
-![Traverse folder algo](dqdqdwqdq)
+![Traverse folder algo](https://github.com/iliass-el/samsung-photo-ranger/blob/master/Flowchart.png)
 
 # Result
-![organized images](result)
+![organized images](https://github.com/iliass-el/samsung-photo-ranger/blob/master/result.png)
